@@ -9,4 +9,4 @@ A keylogger or keystroke logger/keyboard capturing is a form of malware or hardw
 
 1.Install the pynput library using pip:
 
-pip install pynput
+> pip install pynput
